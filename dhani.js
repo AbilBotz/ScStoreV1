@@ -51,15 +51,15 @@ autocomposing = false
 autorecording = false
 //----
 
-let owner = '6282293295376' // NO OWNER
-let botname = '© Abil Botz' // NAMA BOT
-let ownername = '© Abil Ganz' // NAMA OWNER
-let fake = '© Abil Botz' // FAKENYA
+let owner = '6282188585604' // NO OWNER
+let botname = '© Raja BOTz' // NAMA BOT
+let ownername = '© I'ts Me Raja😎' // NAMA OWNER
+let fake = '© Raja BOTz' // FAKENYA
 let yt = 'https://youtube.com/channel/UCJPqI5eVhKPXPL2V8y6pIDA' // YT LU
-let gopay = 'http://bit.ly/qrgopay' // QRGOPAY / NO GOPAY
-let dana = '-' // QRDANA / NO DANA
-let ovo = 'http://bit.ly/qrovo' // QROVO / NO OVO
-let pulsa = '082293295376' // PULSA
+let gopay = '082188585604' // QRGOPAY / NO GOPAY
+let dana = '082349687420' // QRDANA / NO DANA
+let ovo = '082188585604' // QROVO / NO OVO
+let pulsa = '082288585604' // PULSA
 
 const fakeimage = fs.readFileSync ('./media/dhani.jpg')
 const fakedhani = fs.readFileSync ('./media/thumb.jpg')
@@ -768,7 +768,6 @@ menunya = `*「 PAYMENT 」*
 • *Dana : ${dana}*
 • *Ovo : ${ovo}*
 • *Pulsa : ${pulsa}*
-• *Scan Qris Di Atas !!*`
 teks =
 `「 ${botname} 」\n*${tanggal}*`
 but = [
