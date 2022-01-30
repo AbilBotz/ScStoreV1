@@ -1,6 +1,6 @@
 # ScStoreV1
 
-SCSTOREV1 BY ABIL BOTZ
+SCSTOREV1 BY RENZZ BOTZ
 
 ## FOR TERMUX USER
 
@@ -38,7 +38,7 @@ npm start
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/CS4ESARec5o476nHesGIDt)
+- [`GROUP WA`](https://chat.whatsapp.com/DNzM4hRZk4sJdOnj8vZm9X)
 
 
 ---------
@@ -53,3 +53,4 @@ npm start
 
 Botz Dhani?,
 ABIL BOTZ
+  RENZZ BOTZ
